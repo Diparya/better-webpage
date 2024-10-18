@@ -49,7 +49,7 @@ export default function MoreResources() {
           *See <a href="#" className="text-blue-600 underline">Better Real Estate discount terms and conditions</a>.
         </p>
         <p className="text-xs text-gray-500 mt-2">
-          **The average lifetime savings estimate is based on a comparison of the Freddie Mac Primary Mortgage Market Survey’s (PMMS) 30-year fixed-rate mortgage product with Better Mortgage's own offered rate.
+          **The average lifetime savings estimate is based on a comparison of the Freddie Mac Primary Mortgage Market Survey&apos;s (PMMS) 30-year fixed-rate mortgage product with Better Mortgage&apos;s own offered rate.
         </p>
       </div>
     </div>

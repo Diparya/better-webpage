@@ -42,7 +42,7 @@ const MortgageCalculatorFeatures = () => {
           </p>
           <p className="text-gray-700 mb-4">
             PMI is automatically removed from conventional mortgages once your home equity reaches 22%. Alternatively, you can request 
-            the removal of PMI once you've accumulated at least 20% home equity.
+            the removal of PMI once you&apos;ve accumulated at least 20% home equity.
           </p>
         </div>
 

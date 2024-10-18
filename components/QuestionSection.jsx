@@ -7,7 +7,7 @@ const QuestionSection = () => {
       <div className='flex flex-col lg:flex-row justify-between items-center'>
       {/* Heading Section */}
       <section className="text-center mb-12">
-        <h2 className="text-5xl font-bold text-gray-900 text-start">Got questions?<br/> We've got answers</h2>
+        <h2 className="text-5xl font-bold text-gray-900 text-start">Got questions?<br/> We&apos;ve got answers</h2>
       </section>
 
       {/* Product Navigation Buttons */}

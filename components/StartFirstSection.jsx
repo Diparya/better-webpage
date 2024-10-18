@@ -31,7 +31,7 @@ const StartFirstSection = () => {
         </div>
 
         {/* Betsy's Greeting */}
-        <h2 className="text-3xl font-semibold text-black">Hi, I'm Betsy!</h2>
+        <h2 className="text-3xl font-semibold text-black">Hi, I&apos;m Betsy!</h2>
         <p className="text-gray-600 font-semibold text-3xl">What can I help you with?</p>
 
         {/* Buttons */}
@@ -110,7 +110,7 @@ const StartFirstSection = () => {
         {/* New Section: Unlock Benefits */}
         <div className="mt-32 w-full max-w-xl bg-green-50 rounded-lg p-6">
           <p className="text-lg font-medium text-gray-700">
-            After a few questions, you'll unlock:
+            After a few questions, you&apos;ll unlock:
           </p>
           <ul className="mt-4 space-y-2">
             <li className="flex items-center space-x-2">

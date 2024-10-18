@@ -11,7 +11,7 @@ export default function Footer() {
             </p>
             <div className="space-y-2">
               <p className="text-green-600 font-semibold">Better Mortgage</p>
-              <p className="text-gray-600">We can't wait to say "Welcome home." Apply 100% online, with expert customer support.</p>
+              <p className="text-gray-600">We can&apos;t wait to say &quot;Welcome home.&quot; Apply 100% online, with expert customer support.</p>
 
               <p className="text-green-600 font-semibold">Better Real Estate</p>
               <p className="text-gray-600">Connect with a local Better Real Estate Partner Agent to find out all the ways you can save.</p>

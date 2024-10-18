@@ -43,7 +43,7 @@ export default function Header() {
           <Link href='/mortgage-calculator'>Calculator</Link>
         </li>
         <li className="hover:text-gray-500 cursor-pointer">
-          <Link href='/start'>Get's Start</Link>
+          <Link href='/start'>Get&apos;s Start</Link>
         </li>
         <li className="hover:text-gray-500 cursor-pointer">Rates</li>
         <li className="hover:text-gray-500 cursor-pointer">Better+</li>
@@ -91,7 +91,7 @@ export default function Header() {
             <Link href='/mortgage-calculator'>Calculator</Link>
             </li>
             <li className="text-green-800 hover:text-green-500 cursor-pointer">
-            <Link href='/start'>Get's Start</Link>
+            <Link href='/start'>Get&apos;s Start</Link>
             </li>
             <li className="text-green-800 hover:text-green-500 cursor-pointer">Rates</li>
             <li className="text-green-800 hover:text-green-500 cursor-pointer">Better+</li>
